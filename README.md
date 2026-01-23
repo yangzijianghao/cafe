@@ -4,7 +4,7 @@
 
 <img src="image1.png" alt="Reconstructed data for SEED" width="45%">
 
-<img src="image2.png" alt="Topomap for SEED" width="45%">
+<img src="image2.png" alt="Topomap for SEED" width="40%">
 
 </p>
 
