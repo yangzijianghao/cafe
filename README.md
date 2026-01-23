@@ -2,15 +2,18 @@
 
 <p align="center">
 
-<img src="image1.png" alt="Reconstructed data for SEED" width="45%">
+<img src="image1.png" alt="Topomap for MI" width="45%">
 
 <img src="image2.png" alt="Topomap for SEED" width="40%">
 
 </p>
 
-Figure 1: Comparison of Method Architecture and Experimental Results​​
+**Figure 1: Comparative Analysis of EEG Topographic Maps**
 
-​​Left: Reconstructed EEG Data from SEED Dataset | Right: Topographic Map Visualization for SEED Dataset​
+**Left**: EEG topographic map comparison on the MI dataset, showcasing reconstructed data from our method (cafe) against other models.
+
+**Right**: EEG topographic map comparison on the SEED dataset, illustrating reconstructed data from our method (cafe) versus alternative models.
+​
 
 ## :wrench: Dependencies and Installation
 
