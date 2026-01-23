@@ -1,12 +1,12 @@
 # 标题
 
-<!-- <p align="center"> -->
+<p align="center">
 
-<!-- <img src="images/reconstructed_data_SEED.png" alt="Reconstructed data for SEED" width="45%"> -->
+<img src="images1.png" alt="Reconstructed data for SEED" width="45%">
 
-<!-- <img src="images/topomap_SEED.png" alt="Topomap for SEED" width="45%"> -->
+<img src="images2.png" alt="Topomap for SEED" width="45%">
 
-<!-- </p> -->
+</p>
 
 Figure 1: Comparison of Method Architecture and Experimental Results​​
 
