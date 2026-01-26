@@ -1,4 +1,4 @@
-# 标题
+# CAFE: Channel-Autoregressive Factorized Encoding for Robust Biosignal Spatial Super-Resolution
 
 <p align="center">
 
