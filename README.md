@@ -46,8 +46,10 @@
 ### Dataset Preparation
 Download datasets:
    - SEED: http://bcmi.sjtu.edu.cn/~seed
-   - SEED-IV: http://bcmi.sjtu.edu.cn/~seed/seed-iv.html
+   - CPSC2018: https://hf-mirror.com/datasets/kushalps/cpsc2018
    - Localize-MI: https://doi.org/10.12751/g-node.1cc1a
+   - sEMG: https://fb-ctrl-oss.s3.amazonaws.com/generic-neuromotor-interface-data
+   - AJILE12: https://dandiarchive.org/dandiset/000055/0.220127.0436
 
 ### Training Workflow
 The training process consists of four sequential steps:
